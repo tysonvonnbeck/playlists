@@ -1,2 +1,2 @@
 # playlists
-A website to host playlists
+A reactive website to host playlists
